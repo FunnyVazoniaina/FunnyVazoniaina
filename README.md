@@ -1,6 +1,5 @@
 - 👋 Hi, I’m @FunnyVazoniaina
 - 👀 I’m interested in web and mobile development.
-- 🌱 I’m currently still study in third year at ENI(Ecole Nationale d'Informatique)
 - 💞️ I’m free for work right now.
 
 <!---
