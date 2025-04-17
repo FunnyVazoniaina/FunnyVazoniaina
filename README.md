@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @FunnyVazoniaina
-- 👀 I’m interested in web and mobile development.
+- 👀 I work in web and mobile development.
 - 💞️ I’m free for work right now.
 
 <!---
