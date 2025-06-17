@@ -9,7 +9,7 @@ I am passionate about designing and building modern, efficient, and user-centric
 ## Technical Skills & Interests
 
 - **Frontend:** React, Flutter, HTML/CSS, Vite, SaSS, TailwindCSS, Bootstrap, NextJS  
-- **Backend:** Node.js, Express, Firebase, Convex, PostgreSQL, MongoDB, MySQL, REST APIs  
+- **Backend:** Node.js, Express, Firebase, Convex, PostgreSQL, MongoDB, MySQL, RESTful APIs, GraphQL  
 - **Mobile:** Flutter and Kotlin for cross-platform development  
 - **Operating Systems & Tools:** Ubuntu, Fedora, Git, Docker, Visual Studio Code
 
