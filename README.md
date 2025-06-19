@@ -47,6 +47,11 @@ Feel free to reach out or connect:
 
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=FunnyVazoniaina&show_icons=true&theme=radical)
 
+## Programming Languages
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=FunnyVazoniaina&layout=compact&theme=radical)
+
+
 ---
 
 > “Code is poetry — clean, efficient, and purposeful.”
