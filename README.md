@@ -45,11 +45,11 @@ Feel free to reach out or connect:
 
 ## GitHub Stats
 
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=FunnyVazoniaina&show_icons=true&theme=radical)
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=FunnyVazoniaina&show_icons=true&title_color=a78bfa&text_color=e2e8f0&icon_color=38bdf8&bg_color=0f172a)
 
 ## Programming Languages
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=FunnyVazoniaina&layout=compact&theme=radical)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=FunnyVazoniaina&layout=compact&title_color=a78bfa&text_color=e2e8f0&bg_color=0f172a)
 
 
 ---
