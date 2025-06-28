@@ -8,13 +8,13 @@
 
 <h2 align="center">My GitHub Overview</h2>
 
-<table align="center">
+<table align="center" cellspacing="0" cellpadding="0">
   <tr>
-    <td style="padding: 0 10px;">
-      <img src="https://github-readme-stats.vercel.app/api?username=FunnyVazoniaina&show_icons=true&hide_border=true&theme=tokyonight&include_all_commits=true&count_private=true" width="420" />
+    <td>
+      <img src="https://github-readme-stats.vercel.app/api?username=FunnyVazoniaina&show_icons=true&hide_border=true&theme=transparent&include_all_commits=true&count_private=true" width="420" />
     </td>
-    <td style="padding: 0 10px;">
-      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=FunnyVazoniaina&layout=compact&hide_border=true&theme=tokyonight" width="420" />
+    <td>
+      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=FunnyVazoniaina&layout=compact&hide_border=true&theme=transparent" width="420" />
     </td>
   </tr>
 </table>
