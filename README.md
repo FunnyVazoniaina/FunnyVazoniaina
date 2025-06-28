@@ -6,15 +6,15 @@
 
 ---
 
-<h2 align="center">GitHub Overview</h2>
+<h2 align="center">My GitHub Overview</h2>
 
 <table align="center">
   <tr>
-    <td>
-      <img src="https://github-readme-stats.vercel.app/api?username=FunnyVazoniaina&show_icons=true&hide_border=true&theme=tokyonight" width="410" height="200"/>
+    <td style="padding: 0 10px;">
+      <img src="https://github-readme-stats.vercel.app/api?username=FunnyVazoniaina&show_icons=true&hide_border=true&theme=tokyonight&include_all_commits=true&count_private=true" width="420" />
     </td>
-    <td>
-      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=FunnyVazoniaina&layout=compact&hide_border=true&theme=tokyonight" width="410" height="200"/>
+    <td style="padding: 0 10px;">
+      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=FunnyVazoniaina&layout=compact&hide_border=true&theme=tokyonight" width="420" />
     </td>
   </tr>
 </table>
