@@ -1,59 +1,14 @@
-# Hello, I'm Funny VAZONIAINA
+<h1 align="center">Hi Geeks! 👋</h1>
 
-I am a **Web Developer**, **Mobile Application Developer**, and **Linux Enthusiast** with a strong curiosity for **Artificial Intelligence**.
-
-I am passionate about designing and building modern, efficient, and user-centric applications across both web and mobile platforms. As a daily Linux user, I constantly seek open-source solutions and system-level optimizations to improve workflows. Currently, I am deepening my knowledge in AI and exploring its practical applications.
-
----
-
-## Technical Skills & Interests
-
-- **Frontend:** React, Flutter, HTML/CSS, Vite, SaSS, TailwindCSS, Bootstrap, NextJS  
-- **Backend:** Node.js, Express, Firebase, Convex, PostgreSQL, MongoDB, MySQL, RESTful APIs, GraphQL  
-- **Mobile:** Flutter and Kotlin for cross-platform development  
-- **Operating Systems & Tools:** Ubuntu, Fedora, Git, Docker, Visual Studio Code
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&pause=1000&color=9A00FF&center=true&vCenter=true&width=435&lines=Web+and+Mobile+Developer" alt="Typing SVG" />
+</p>
 
 ---
 
-## Open Source Contributions
+<h2 align="center">🔥 My GitHub Stats</h2>
 
-I actively contribute to open-source projects to improve my skills and give back to the community. I enjoy collaborating with developers worldwide and participating in projects that solve real problems.
-
----
-
-## Projects
-
-My portfolio includes a diverse range of projects such as:  
-- Full-stack web applications with modern architectures  
-- Mobile apps featuring intuitive and polished user interfaces  
-- Linux-based tools and automation scripts  
-- Experimental AI integrations within real-world projects
-
-Explore my repositories to learn more about my work.
-
----
-
-## Contact
-
-Feel free to reach out or connect:  
-- LinkedIn: [linkedin.com/in/funny-vazoniaina](https://www.linkedin.com/in/funny-vazoniaina-915429281/)  
-- Email: funnyvazoniaina@gmail.com  
-- Personal Portfolio: [Funny-VAZONIAINA.com](https://portfolio-funny-vazoniaina.vercel.app/)
-- Personal Blog: [FunTech-Blog.com](https://portfolio-funny-vazoniaina.vercel.app/)
-
----
-
-## GitHub Stats
-
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=FunnyVazoniaina&show_icons=true&title_color=a78bfa&text_color=e2e8f0&icon_color=38bdf8&bg_color=0f172a)
-
-## Programming Languages
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=FunnyVazoniaina&layout=compact&title_color=a78bfa&text_color=e2e8f0&bg_color=0f172a)
-
-
----
-
-> “Code is poetry — clean, efficient, and purposeful.”
-
-I am open to collaboration and new opportunities. Let’s build something great together.
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=FunnyVazoniaina&show_icons=true&hide_border=true&theme=tokyonight" width="47%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=FunnyVazoniaina&layout=compact&hide_border=true&theme=tokyonight" width="47%" />
+</p>
