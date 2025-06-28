@@ -8,13 +8,7 @@
 
 <h2 align="center">GitHub Overview</h2>
 
-<table align="center">
-  <tr>
-    <td>
-      <img src="https://github-readme-stats.vercel.app/api?username=FunnyVazoniaina&show_icons=true&hide_border=true&theme=tokyonight" width="400"/>
-    </td>
-    <td>
-      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=FunnyVazoniaina&layout=compact&hide_border=true&theme=tokyonight" width="400"/>
-    </td>
-  </tr>
-</table>
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=FunnyVazoniaina&show_icons=true&hide_border=true&theme=tokyonight&card_width=430" width="400" height="200"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=FunnyVazoniaina&layout=compact&hide_border=true&theme=tokyonight&card_width=430" width="400" height="200"/>
+</p>
