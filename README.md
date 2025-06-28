@@ -1,9 +1,7 @@
-<h1 align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Share+Tech+Mono&size=30&duration=3000&pause=1000&color=00FF00&center=true&vCenter=true&width=300&lines=Hi+Geeks!" alt="Hi Geeks! typing animation" />
-</h1>
+<h1 align="center" style="color: white; font-family: 'Share Tech Mono', monospace;">Hi Geeks!</h1>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&color=9A00FF&center=true&vCenter=true&width=400&lines=Web+and+Mobile+Developer" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Press+Start+2P&size=14&pause=1000&color=8A2BE2&center=true&vCenter=true&width=600&lines=Web+%26+Mobile+Developer+and+Linux+Lover" alt="Pixel Dev Typing SVG" />
 </p>
 
 ---
