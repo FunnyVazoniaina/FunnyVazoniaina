@@ -18,3 +18,15 @@
     </td>
   </tr>
 </table>
+
+---
+
+<p align="center">
+  You can reach me at:
+</p>
+
+<p align="center">
+  <a href="mailto:vazoniaina@proton.me">
+    <img src="https://img.shields.io/badge/vazoniaina@proton.me-278EA5?style=flat-square&labelColor=20232a&color=278EA5" alt="email badge" />
+  </a>
+</p>
