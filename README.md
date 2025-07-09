@@ -1,5 +1,5 @@
 <h1 align="center" style="color: white; font-family: 'Share Tech Mono', monospace;">
-  🐧 Hi Geeks!
+  🤖 Hi Geeks!
 </h1>
 
 <p align="center">
