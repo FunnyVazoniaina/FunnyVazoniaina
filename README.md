@@ -3,7 +3,7 @@
 </h1>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Press+Start+2P&size=14&pause=1000&color=278EA5&center=true&vCenter=true&width=600&lines=Web+%26+Mobile+Developer+and+Linux+Lover" alt="Pixel Dev Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Press+Start+2P&size=14&pause=1000&color=278EA5&center=true&vCenter=true&width=600&lines=Im+a+Web+%26+Mobile+Developer+and+Linux+Lover" alt="Pixel Dev Typing SVG" />
 </p>
 
 <h2 align="center" style="color:#278EA5;">My GitHub Overview</h2>
