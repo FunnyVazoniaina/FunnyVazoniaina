@@ -1,4 +1,4 @@
-#  Hi Geeks!
+#  Hi Geeks
 
 I'm a **Software Engineer** who thrives in the terminal.  
 I'm passionate about **Linux**, automation, and open-source software.  
