@@ -5,7 +5,8 @@ I'm passionate about **Linux**, automation, and open-source software.
 You’ll find me contributing to modern **web stacks**, building APIs, and exploring the depths of system-level development.
 
 ### What I Do
--  Full-stack engineering 
+-  Full-stack engineering
+-  DevOps manage CI/CD, deployment pipeline and automation
 -  Linux system customization & shell scripting
 -  Exploring cybersecurity & ethical hacking
 
